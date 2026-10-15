@@ -1,7 +1,6 @@
 title: makubSvg
 theme: minima
-author:
-  name: MakubSvg
+author: MakubSvg
 collections:
   projects:
     output: true

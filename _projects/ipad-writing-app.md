@@ -2,6 +2,7 @@
 title: iPad writing app.
 description: An apple pencil writing app mostly for iPads.
 date: 2026-10-28
+image: /assets/img/2026-11-05-ipad-writing-app.png
 ---
 
 An app for taking handwritten notes.

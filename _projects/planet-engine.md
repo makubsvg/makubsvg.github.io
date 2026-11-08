@@ -2,6 +2,7 @@
 title: PlanetEngine
 description: A game and multi purpose graphics engine using SDL and OpenGL.
 date: 2026-10-28
+image: /assets/img/2026-11-05-planet-engine.png
 ---
 
 PlanetEngine is my custom engine powering various of my projects including [triangleRTS]({% link _projects/trianglerts.md %}) and tdLab.
